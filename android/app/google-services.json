@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1073001033129",
+    "project_id": "authentication-emcus",
+    "storage_bucket": "authentication-emcus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073001033129:android:61f4233b041ff1be3c28b8",
+        "android_client_info": {
+          "package_name": "com.example.firebase_emcus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwqKPg6kIJV6ZWKEs4bOOELhfXy3reJ58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
